@@ -1,4 +1,6 @@
-### Hi there 👋
+## Aleks Zinevych
+
+👋 Hi, I'm Aleks. I'm leading a Javascript Stream in [Perfectial](https://perfectial.com).
 
 <!--
 **zinevych/zinevych** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
