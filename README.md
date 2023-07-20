@@ -1,7 +1,6 @@
 ## Aleks Zinevych
 
-👋 Hi, I'm Aleks. I'm leading a Javascript Stream in [Perfectial](https://perfectial.com).
-
+👋 Hi, I'm Aleks. Engineering Director (Node.js & Ruby) in Avenga.
 <!--
 **zinevych/zinevych** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
